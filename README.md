@@ -21,3 +21,5 @@
 - 第一章
   - [只有一个福音](https://github.com/caojunhua/lingxiu/blob/master/%E7%8E%8B%E6%98%8E%E9%81%93%E6%96%87%E9%9B%86/07_%E5%8D%AB%E9%81%93/01_%E7%9C%9F%E4%BC%AA%E7%A6%8F%E9%9F%B3%E8%BE%A8.md)
   - [注重来生的道理](https://github.com/caojunhua/lingxiu/blob/master/%E7%8E%8B%E6%98%8E%E9%81%93%E6%96%87%E9%9B%86/07_%E5%8D%AB%E9%81%93/02_%E6%B3%A8%E9%87%8D%E6%9D%A5%E7%94%9F%E7%9A%84%E9%81%93%E7%90%86.md)
+  - [救赎的重要](https://github.com/caojunhua/lingxiu/blob/master/%E7%8E%8B%E6%98%8E%E9%81%93%E6%96%87%E9%9B%86/07_%E5%8D%AB%E9%81%93/03_%E6%95%91%E8%B5%8E%E7%9A%84%E9%87%8D%E8%A6%81.md)
+  - [魔鬼的话](https://github.com/caojunhua/lingxiu/blob/master/%E7%8E%8B%E6%98%8E%E9%81%93%E6%96%87%E9%9B%86/07_%E5%8D%AB%E9%81%93/04_%E9%AD%94%E9%AC%BC%E7%9A%84%E8%AF%9D.md)
